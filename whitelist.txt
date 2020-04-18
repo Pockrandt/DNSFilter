@@ -1,17 +1,12 @@
-### include: https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Do%20not%20Block!.txt
-
+# include: https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Do%20not%20Block!.txt
 0.0.0.0 myfritz.net
 0.0.0.0 pockrandt*.duckdns.org
-
-googlehosted.l.googleusercontent.com
-
-myfritz.net
-pockrandt*.duckdns.org
-
-#chrome dict update
-redirector.gvt1.com
-
-#mydealz
+0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 myfritz.net
+0.0.0.0 pockrandt*.duckdns.org
+# chrome dict update
+0.0.0.0 redirector.gvt1.com
+# mydealz
 0.0.0.0 best.aliexpress.com
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 tc.tradetracker.net
