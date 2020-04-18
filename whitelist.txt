@@ -1,15 +1,9 @@
-googlehosted.l.googleusercontent.com
+### include: https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Do%20not%20Block!.txt
 
-myfritz.net
-pockrandt*.duckdns.org
+0.0.0.0 myfritz.net
+0.0.0.0 pockrandt*.duckdns.org
 
-presolve.spotify.com
-open.spotify.com
-spclient.wg.spotify.com
-
-redirector.gvt1.com
-
-best.aliexpress.com
-s.click.aliexpress.com
-
-tc.tradetracker.net
+#mydealz
+0.0.0.0 best.aliexpress.com
+0.0.0.0 s.click.aliexpress.com
+0.0.0.0 tc.tradetracker.net
