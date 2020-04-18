@@ -3,6 +3,14 @@
 0.0.0.0 myfritz.net
 0.0.0.0 pockrandt*.duckdns.org
 
+googlehosted.l.googleusercontent.com
+
+myfritz.net
+pockrandt*.duckdns.org
+
+#chrome dict update
+redirector.gvt1.com
+
 #mydealz
 0.0.0.0 best.aliexpress.com
 0.0.0.0 s.click.aliexpress.com
