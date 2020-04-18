@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://www.malwaredomainlist.com/hostslist/hosts.txt
+https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Spotify-HOSTS.txt
+
+## ad guard home build-in
+https://adaway.org/hosts.txt
+https://www.malwaredomainlist.com/hostslist/hosts.txt
